@@ -1,0 +1,29 @@
+; 請用" || " 做分隔， 前後有空格， 中間兩個"|",共四個字符做分隔。 
+; ";", "#" 分頭的行會突略， 用來做調試， 空白行也將會突略。 
+;Default Char Style.
+;dataType:DEFAULT || lang:ALL || charSize:5.5 || fontName:DINCond-Medium || text:0123456789%/
+
+;Country of Origin
+dataType:COOData || lang:CN || charSize:5.5 || fontName:ArialUnicodeMS || text:中国制造  
+dataType:COOData || lang:MY || charSize:5.5 || fontName:DINCond-Medium || text:DIBUAT DI CHINA 
+dataType:COOData || lang:AR || charSize:5.5 || fontName:ArialMT || text:صنع في الصين
+dataType:COOData || lang:TC || charSize:5.5 || fontName:ArialUnicodeMS || text:中國製  
+dataType:COOData || lang:PL || charSize:5.5 || fontName:DINCond-Medium || text:WYPRODUKOWANO W CHINACH  
+dataType:COOData || lang:RU || charSize:5.5 || fontName:MyriadPro-Regular || text:СДЕЛАНО В КИТАЕ
+dataType:COOData || lang:FR || charSize:5.5 || fontName:DINCond-Medium || text:FABRIQUÉ EN CHINE  
+dataType:COOData || lang:EN || charSize:5.5 || fontName:DINCond-Medium || text:MADE IN CHINA
+dataType:COOData || lang:JP || charSize:5.5 || fontName:KozGoPro-Regular || text:バングラデシュ製
+
+;Care Instruction
+dataType:CareInstruction || lang:ID || charSize:5.5 || fontName:DINCond-Medium || text:WARNA BISA LUNTUR SAAT BARU. CUCI SEKALI SECARA TERPISAH DALAM AIR DINGIN SEBELUM DIPAKAI. CUCI MESIN DENGAN AIR DINGIN DIBALIK LAPISANNYA DENGAN WARNA SEJENIS.
+dataType:CareInstruction || lang:AR || charSize:5.5 || fontName:ArialMT || text:يمكن أن يتغير اللون عند غسلها لأول مرة اغسل مرة واحدة على حدة بمياه باردة قبل الارتداء   اغسل مع ألوان مشابهة بمياه باردة في      الغسالة بعد القلب.
+dataType:CareInstruction || lang:PL || charSize:5.5 || fontName:DINCond-Medium || text:NOWE PRODUKTY MOGĄ BARWIĆ. WYPRAĆ RAZ OSOBNO W ZIMNEJ WODZIE PRZED PIERWSZYM ZAŁOŻENIEM. PRAĆ W PRALCE, ODWRÓCONE NA LEWĄ STRONĘ, W ZIMNEJ WODZIE, Z PODOBNYMI KOLORAMI.
+dataType:CareInstruction || lang:CN || charSize:5.5 || fontName:ArialUnicodeMS || text:新的时可能变色. 穿着前冷水洗涤一次，单独洗涤.与相似颜色的制品一同反面冷水机洗.不可漂白.低温翻转干燥.低温熨烫(如需要).不可干洗.
+dataType:CareInstruction || lang:RU || charSize:5.5 || fontName:MyriadPro-Regular || text:НОВАЯ ВЕЩЬ МОЖЕТ КРАСИТЬСЯ. ПОСТИРАТЬ ОТДЕЛЬНО В ХОЛОДНОЙ ВОДЕ ПЕРЕД ТЕМ, КАК НАДЕТЬ В ПЕРВЫЙ РАЗ. МАШИННАЯ СТИРКА В ВЫВЕРНУТОМ ВИДЕ В ХОЛОДНОЙ ВОДЕ С АНАЛОГИЧНЫМИ ПО ЦВЕТУ ИЗДЕЛИЯМИ.
+dataType:CareInstruction || lang:FR || charSize:5.5 || fontName:DINCond-Medium || text:La couleur peut déteindre lorsque neuve. Laver une fois séparément à l’eau froide avant de le porter. LAVER À LA MACHINE À L’EAU FROIDE À L’ENVERS AVEC DES COULEURS SEMBLABLES.
+dataType:CareInstruction || lang:EN || charSize:5.5 || fontName:DINCond-Medium || text:COLOR MAY TRANSFER WHEN NEW.WASH ONCE SEPARATELY IN COLD WATER BEFORE WEARING. MACHINE WASH COLD INSIDE OUT WITH LIKE COLORS.
+dataType:CareInstruction || lang:JP || charSize:5.5 || fontName:KozGoPro-Regular || text:最初は色移りする場合があります。着用前に一度別々に常温で洗濯してください。色落ちの可能性がありますので、他の物と分けて洗濯機で常温で洗って下さい。
+
+
+
+
